@@ -13,3 +13,5 @@ Ejemplo:   `final abilities = <String> ['impostor'];`
 [Clase 3](03-maps.dart): Trata de como usar objetos, en este caso se llaman maps. es importante declarar los tipos de datos como por ejemplo `final Map <String, dynamic>  Pokemon = {};
 
 [Clase 4](04-List-iterables-sets.dart): uso de listas, tipo de dato iterable y como manejarlo con toSet()
+
+[Clase 5](05-funciones-y-parametros.dart) uso de funciones normales y funciones lambda o flecha
