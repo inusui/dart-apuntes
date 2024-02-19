@@ -14,4 +14,4 @@ Ejemplo:   `final abilities = <String> ['impostor'];`
 
 [Clase 4](04-List-iterables-sets.dart): uso de listas, tipo de dato iterable y como manejarlo con toSet()
 
-[Clase 5](05-funciones-y-parametros.dart) uso de funciones normales y funciones lambda o flecha
+[Clase 5](05-funciones-y-parametros.dart) uso de funciones normales y funciones lambda o flecha. Funciones con Required y con valores por defecto si no le envio el dato.
