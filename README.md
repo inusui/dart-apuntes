@@ -17,3 +17,5 @@ Ejemplo:   `final abilities = <String> ['impostor'];`
 [Clase 5](05-funciones-y-parametros.dart) uso de funciones normales y funciones lambda o flecha. Funciones con Required y con valores por defecto si no le envio el dato.
 
 [CLase 6](06-clases.dart) Uso de clases y del @override
+
+[Clase 07])(07-getters-setters.dart) Uso de getters, setters y assert.
