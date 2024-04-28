@@ -11,7 +11,7 @@
  *      @override: porque estoy sobrescribiendo  una función.
  * 
  * 2: Esta usa el método de energyPlant, si energyPlant cambia o se le agregan 
- *    otros tipos de energia el metodo de chargePhone no se vera afectado. 
+ *    otros tipos de energía el método de chargePhone no se vera afectado. 
  * 
  */
 
