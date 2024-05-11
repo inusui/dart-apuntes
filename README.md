@@ -18,6 +18,8 @@ Ejemplo:   `final abilities = <String> ['impostor'];`
 
 [CLase 6](06-clases.dart) Uso de clases y del @override
 
-[Clase 07])(07-getters-setters.dart) Uso de getters, setters y assert.
+[Clase 07](07-getters-setters.dart) Uso de getters, setters y assert.
 
 [Clase 08 Clases abstractas](08-clases-abstractas.dart): Clases abstractas
+
+[Clase 09 Mixin](09-mixins.dart): Mixins
