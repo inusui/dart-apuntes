@@ -18,6 +18,16 @@ void main() async {
     print('Valistes porque: $onError');
   }); */
   print(value);
+
+  try {
+    final vlue = await learnTryCatch('a');
+    print(vlue);
+  } on Exception catch (err) {
+    print("una exception: $err");
+  } catch (e) {
+    print("Ocurrio un error $e");
+  }
+
   print('fin');
 }
 
@@ -29,4 +39,9 @@ Future<String> httpGet(String url) async {
 
   await Future.delayed(const Duration(seconds: 1));
   return 'Tenemos algun valor';
+}
+
+Future<String> learnTryCatch(String a) async {
+  await Future.delayed(const Duration(seconds: 1));
+  throw Exception("Errorcillo");
 }
